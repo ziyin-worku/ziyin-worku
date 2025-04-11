@@ -86,12 +86,6 @@ RESTful API for a Q&A platform with user authentication, question and answer man
 
 ## 📈 GitHub Stats
 
-[![Ziyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyinworku&show_icons=true&theme=dark)](https://github.com/ziyin-worku)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyinworku&layout=compact&theme=dark)](https://github.com/ziyin-worku)
-
-[![Ziyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyin-worku&show_icons=true&theme=dark)](https://github.com/ziyin-worku)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyin-worku&layout=compact&theme=dark)](https://github.com/ziyin-worku)
-
 [![Ziyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyin-worku&show_icons=true&theme=dark)](https://github.com/ziyin-worku)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyin-worku&layout=compact&theme=dark)](https://github.com/ziyin-worku)
 
