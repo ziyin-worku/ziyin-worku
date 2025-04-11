@@ -1,3 +1,7 @@
+<div style="background-image: url('https://raw.githubusercontent.com/ziyin-worku/ziyin-worku/main/assets/background.jpg'); background-size: cover; background-position: center; height: 100vh; padding: 50px;">
+  <h1 style="color: white;">Hello, I'm Ziyin Worku!</h1>
+  <p style="color: white;">Full-stack developer building modern web apps with React, Node.js, Firebase & Tailwind.</p>
+</div>
 
 
 # 👋 Hello, I'm Ziyin Worku  
