@@ -35,7 +35,7 @@ Full-stack developer building modern web apps with React, Node.js, Firebase & Ta
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 🧰 Frontend & Backend Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -88,6 +88,12 @@ RESTful API for a Q&A platform with user authentication, question and answer man
 
 [![Ziyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyinworku&show_icons=true&theme=dark)](https://github.com/ziyin-worku)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyinworku&layout=compact&theme=dark)](https://github.com/ziyin-worku)
+
+[![Ziyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyin-worku&show_icons=true&theme=dark)](https://github.com/ziyin-worku)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyin-worku&layout=compact&theme=dark)](https://github.com/ziyin-worku)
+
+[![Ziyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyin-worku&show_icons=true&theme=dark)](https://github.com/ziyin-worku)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyin-worku&layout=compact&theme=dark)](https://github.com/ziyin-worku)
 
 
 ---
