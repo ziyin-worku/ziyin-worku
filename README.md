@@ -69,7 +69,8 @@ Full-stack developer building modern web apps with React, Node.js, Firebase & Ta
 ## 🚀 Featured Projects
 
 ### [E-Commerce Platform](https://github.com/ziyin-worku/Amazon_clone)
-![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)  
+![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1)
 Full-stack e-commerce app with payment integration (Stripe API) and admin dashboard.
 
 ### [Evangadi Q&A API](https://github.com/ziyin-worku/EVANGADI_FORUM_final)
