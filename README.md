@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ziyin Worku
 
 **Full-Stack Developer | Open-Source Enthusiast**  
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://ziyinworku.dev)
-[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0A66C2)](https://linkedin.com/in/ziyinworku)
-[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2)](https://twitter.com/ziyinworku)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue)](https://ziyintech.com/)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0A66C2)](https://www.linkedin.com/in/ziyin-worku-4a8979171/)
+[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2)]()
 
 ---
 
