@@ -1,8 +1,3 @@
-<div style="background-image: url('./assets/background_image.png'); background-size: cover; background-position: center; height: 100vh; padding: 50px;">
-  <h1 style="color: white;">Hello, I'm Ziyin Worku!</h1>
-  <p style="color: white;">Full-stack developer building modern web apps with React, Node.js, Firebase & Tailwind.</p>
-</div>
-
 
 # 👋 Hello, I'm Ziyin Worku  
 **Full-Stack Developer | Open-Source Contributor | Building Scalable Web Apps**
