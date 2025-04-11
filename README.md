@@ -23,19 +23,11 @@ Full-stack developer building modern web apps with React, Node.js, Firebase & Ta
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## 🧰 Tools
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-## 🧩 Backend Tech Stack
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -45,48 +37,65 @@ Full-stack developer building modern web apps with React, Node.js, Firebase & Ta
 ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
+## 🧰 Frontend & Backend Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase Console](https://img.shields.io/badge/-Firebase%20Console-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
 
 ## ☁️ Cloud & DevOps
 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/-Railway-000000?style=flat-square&logo=railway&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
 
-### [E-Commerce Platform](https://github.com/ziyinworku/ecommerce)
+### [E-Commerce Platform](https://github.com/ziyin-worku/Amazon_clone)
 ![React](https://img.shields.io/badge/-React-61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)  
 Full-stack e-commerce app with payment integration (Stripe API) and admin dashboard.
 
-### [AI Chatbot](https://github.com/ziyinworku/ai-chatbot)
-![Python](https://img.shields.io/badge/-Python-3776AB) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00)  
-NLP-powered chatbot using Python and TensorFlow for natural language processing.
-
-### [Task Manager API](https://github.com/ziyinworku/task-manager-api)
+### [Evangadi Q&A API](https://github.com/ziyin-worku/EVANGADI_FORUM_final)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000) ![JWT](https://img.shields.io/badge/-JWT-000000)  
-RESTful API with user authentication and task management features.
+RESTful API for a Q&A platform with user authentication, question and answer management, and tags functionality.
+
+### Features:
+- User authentication with JWT
+- CRUD for questions and answers
+- Tags for questions
 
 ---
 
 ## 📈 GitHub Stats
 
-[![Ziyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyinworku&show_icons=true&theme=dark)](https://github.com/ziyinworku)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyinworku&layout=compact&theme=dark)](https://github.com/ziyinworku)
+[![Ziyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziyinworku&show_icons=true&theme=dark)](https://github.com/ziyin-worku)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyinworku&layout=compact&theme=dark)](https://github.com/ziyin-worku)
 
-![Snake Animation](https://github.com/ziyinworku/ziyinworku/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/ziyinworku)  
-- ✉️ **Email**: ziyin@worku.dev  
-- 🌍 [Portfolio Website](https://ziyinworku.dev)  
+- ✉️ **Email**: ziyinworku@gmail.com  
+- 🌍 [Portfolio Website](https://ziyintech.com/)  
 
 ---
 
