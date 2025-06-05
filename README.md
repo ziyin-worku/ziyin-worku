@@ -37,6 +37,8 @@ I'm passionate about crafting modern, user-friendly web applications using **Rea
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+
 
 ---
 
