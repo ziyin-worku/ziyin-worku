@@ -5,7 +5,7 @@
 I'm passionate about crafting modern, user-friendly web applications using **React**, **Node.js**, **Firebase**, and **Tailwind CSS**. I thrive on turning ideas into reality through clean code and innovative solutions.
 
 <p align="center">
-  <a href="https://ziyintech.com"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square" alt="Portfolio"></a>
+  <a href="https://ziyin.vercel.app/"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ziyin-worku-4a8979171"><img src="https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
 <!--   <a href="https://x.com/your-username"><img src="https://img.shields.io/badge/🐦-X-000000?style=flat-square" alt="X"></a>
 </p> -->
@@ -72,7 +72,7 @@ A RESTful API for a Q&A platform with user authentication and question/answer ma
 
 ## 📫 Connect with Me  
 
-- 🌐 [Portfolio](https://ziyintech.com)  
+- 🌐 [Portfolio](https://ziyin.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ziyin-worku-4a8979171)  
 - ✉️ [Email](mailto:ziyinworku@gmail.com)  
 
